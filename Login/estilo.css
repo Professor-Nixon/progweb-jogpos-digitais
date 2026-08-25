@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ddd;
+    text-align: center;
+}
+
+.login {
+    background-color: white;
+    width: 300px;
+    padding: 30px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+input {
+    width: 88%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+button {
+    width: 95%;
+    padding: 10px;
+    background-color: rgba(21, 70, 162, 0.807);
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgba(93, 190, 235, 0.807);
+    color: black;
+}
