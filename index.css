@@ -1,0 +1,10 @@
+#titulo {
+    color: rgba(29, 51, 220, 0.599);
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.descricao {
+    color: gray;
+    font-weight: 900;
+}
