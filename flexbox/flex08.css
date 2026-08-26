@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+
+    align-items: center;
+    align-items: flex-start;
+    align-items: flex-end;
+}
+
+.container div {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
