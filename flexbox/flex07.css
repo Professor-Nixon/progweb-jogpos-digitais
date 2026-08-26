@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+    /* Espaços totalmente iguais */
+    justify-content: space-evenly;
+}
+
+.container div {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}

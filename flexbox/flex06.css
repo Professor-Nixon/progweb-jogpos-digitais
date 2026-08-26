@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+    /* Espaço entre bordas e entre componentes */
+    justify-content: space-around;
+}
+
+.container div {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}

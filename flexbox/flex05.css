@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+    /* Conteúdos separados de forma igual utilizando a margem */
+    justify-content: space-between;
+}
+
+.container div {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}

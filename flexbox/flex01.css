@@ -1,0 +1,12 @@
+.contaianer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.contaianer div{
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}

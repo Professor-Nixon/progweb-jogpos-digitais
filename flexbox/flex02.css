@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+    flex-direction: row;
+    /*Em linha*/
+    flex-direction: column;
+    /*Em coluna*/
+}
+
+.container div {
+    background-color: lightblue;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
