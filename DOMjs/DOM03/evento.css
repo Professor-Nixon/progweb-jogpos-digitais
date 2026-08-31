@@ -1,0 +1,23 @@
+.evento-botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:150px;
+}
+
+#bt-acao{
+    background-color: rgb(61, 126, 230);
+    color: white;
+    border:none;
+    height: 100px;
+    width: 150px;
+    border-radius: 12px;
+    font-size: 25px;
+    cursor: pointer;
+    transition: background-color 1s ease;
+}
+
+#bt-acao:hover{
+background-color: rgb(15, 50, 106);
+    color: white;
+}
